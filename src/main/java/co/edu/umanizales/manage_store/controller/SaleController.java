@@ -73,5 +73,12 @@ public class SaleController {
                 null), HttpStatus.OK);
 
     }
+    @GetMapping(path = "/averagesalesbyseller")
+    public ResponseEntity<ResponseDTO> getAverageSalesBySeller() {
 
+        return new ResponseEntity<>(new ResponseDTO(200,
+                saleService.getTotalSales() / (float) sellerService.getSellers().size(),
+                null), HttpStatus.OK);
+
+    }
 }
