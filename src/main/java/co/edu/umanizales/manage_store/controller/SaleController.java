@@ -13,6 +13,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @RestController
 @RequestMapping(path = "sale")
 public class SaleController {
@@ -80,5 +82,10 @@ public class SaleController {
                 saleService.getTotalSales() / (float) sellerService.getSellers().size(),
                 null), HttpStatus.OK);
 
+    }
+    @GetMapping(path="/StoreBetterGoal")
+    public ResponseEntity<ResponseDTO> getSalesbyStoreBetterGoal()
+    {
+        return new ResponseEntity<>(new ResponseDTO(200,saleService.getStoresBetterGoal(),null),HttpStatus.OK);
     }
 }
