@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="712a7851-277b-49ba-9cb6-4db37499e855" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/SaleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/SaleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/SellerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/SellerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/StoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/StoreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/dto/BestStoreDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/dto/BestStoreDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/dto/ErrorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/dto/ErrorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/dto/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/controller/dto/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/model/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/model/Sale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/model/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/model/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/model/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/model/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/service/SaleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/service/SaleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/service/SellerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/service/SellerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/service/StoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/co/edu/umanizales/manage_store/service/StoreService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DependenciesAnalyzeManager">
+    <option name="forwardDirection" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="openjdk-19" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MmIk0kSze9AutVAmtRSulOvj2e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/marianapincai/PROGRAMACIÓN/manage_store/manage_store/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Lombok.Config&quot;,
+      &quot;XML&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="712a7851-277b-49ba-9cb6-4db37499e855" name="Changes" comment="" />
+      <created>1678366469056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678366469056</updated>
+      <workItem from="1678366470248" duration="23000" />
+      <workItem from="1678366515275" duration="67000" />
+      <workItem from="1678366613582" duration="100000" />
+      <workItem from="1678366848891" duration="3240000" />
+      <workItem from="1678370363018" duration="1000" />
+      <workItem from="1678370369043" duration="19000" />
+      <workItem from="1678370415141" duration="53000" />
+      <workItem from="1678371348657" duration="235000" />
+      <workItem from="1678373274955" duration="54000" />
+      <workItem from="1678373332965" duration="180000" />
+      <workItem from="1678373579755" duration="171000" />
+      <workItem from="1678373754944" duration="20000" />
+      <workItem from="1678373794119" duration="5000" />
+      <workItem from="1678373811573" duration="204000" />
+      <workItem from="1678374160624" duration="42000" />
+      <workItem from="1678374296893" duration="60000" />
+      <workItem from="1678374373465" duration="18000" />
+      <workItem from="1678374723533" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
