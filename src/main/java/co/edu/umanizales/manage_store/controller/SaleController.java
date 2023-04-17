@@ -83,9 +83,9 @@ public class SaleController {
                 null), HttpStatus.OK);
 
     }
-    @GetMapping(path="/storebettergoal")
-    public ResponseEntity<ResponseDTO> getSalesbyStoreBetterGoal()
+    @GetMapping(path="/storebettergoal/{goal}")
+    public ResponseEntity<ResponseDTO> getSalesbyStoreBetterGoal(@PathVariable int goal)
     {
-        return new ResponseEntity<>(new ResponseDTO(200,saleService.getStoresBetterGoal(),null),HttpStatus.OK);
+        return new ResponseEntity<>(new ResponseDTO(200,saleService.getSalesbyStoreBetterGoal(storeService.getStores(),goal),null),HttpStatus.OK);
     }
 }

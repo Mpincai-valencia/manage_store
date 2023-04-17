@@ -14,7 +14,6 @@ import java.util.List;
 @Getter
 public class SaleService {
     private List<Sale>sales;
-    private List<Store>storesBetterGoal;
     public SaleService()
     {
         this.sales=new ArrayList<>();
@@ -23,7 +22,7 @@ public class SaleService {
     {
         this.sales.add(sale);
     }
-    public void addStorebetterGoal(Store store){this.storesBetterGoal.add(store);}
+
 
     public int getTotalSales()
     {
@@ -84,10 +83,10 @@ public class SaleService {
         }
         return bestStoreDto;
     }
-    public List<Store> SalesbyStoreBetterGoal(List<Store>stores)
+    public List<Store> getSalesbyStoreBetterGoal(List<Store>stores, int goal)
     {
-        int goal=0;
-        List<Store>storesBetterGoal=new ArrayList<>();
+
+        List<Store> storesBetterGoal=new ArrayList<>();
         for(Store store:stores)
         {
             if(getTotalSalesByStore(store.getCode())>goal)
