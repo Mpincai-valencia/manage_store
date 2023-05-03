@@ -97,6 +97,20 @@ public class SaleService {
         return storesBetterGoal;
 
     }
+    public List<Seller> getSalesbySellerBetterGoal(List<Seller>sellers, int goal)
+    {
+
+        List<Seller> sellersBetterGoal=new ArrayList<>();
+        for(Seller seller:sellers)
+        {
+            if(getTotalSalesBySeller(seller.getCode())>goal)
+            {
+                sellersBetterGoal.add(seller);
+            }
+        }
+        return sellersBetterGoal;
+
+    }
 
 }
 
